@@ -2,7 +2,7 @@ App = {
      web3Provider: null,
      contracts: {},
 
-     init: function() {
+     init() {
           /*
            * Replace me...
            */
@@ -10,7 +10,7 @@ App = {
           return App.initWeb3();
      },
 
-     initWeb3: function() {
+     initWeb3() {
           /*
            * Replace me...
            */
@@ -18,7 +18,7 @@ App = {
           return App.initContract();
      },
 
-     initContract: function() {
+     initContract() {
           /*
            * Replace me...
            */
