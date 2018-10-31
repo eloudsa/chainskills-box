@@ -1,6 +1,6 @@
 {
   "ignore": [
-
+    "truffle.js"
   ],
   "commands": {
     "Compile contracts": "truffle compile",
