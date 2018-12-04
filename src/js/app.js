@@ -1,32 +1,32 @@
 App = {
-     web3Provider: null,
-     contracts: {},
+    web3Provider: null,
+    contracts: {},
 
-     init() {
-          /*
-           * Replace me...
-           */
+    init() {
+        /*
+         * Replace me...
+         */
 
-          return App.initWeb3();
-     },
+        return App.initWeb3();
+    },
 
-     initWeb3() {
-          /*
-           * Replace me...
-           */
+    initWeb3() {
+        /*
+         * Replace me...
+         */
 
-          return App.initContract();
-     },
+        return App.initContract();
+    },
 
-     initContract() {
-          /*
-           * Replace me...
-           */
-     },
+    initContract() {
+        /*
+         * Replace me...
+         */
+    },
 };
 
-$(function() {
-     $(window).load(function() {
-          App.init();
-     });
+$(function () {
+    $(window).load(function () {
+        App.init();
+    });
 });
