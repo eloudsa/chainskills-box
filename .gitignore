@@ -15,7 +15,8 @@ npm-debug.log*
 
 # IDEA files
 .idea/compiler.xml
-.idea/chainlist.iml
+.idea/encodings.xml
+.idea/chainskills-box.iml
 .idea/inspectionProfiles/
 .idea/**/workspace.xml
 .idea/misc.xml
